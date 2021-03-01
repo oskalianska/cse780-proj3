@@ -75,4 +75,14 @@ Also, regarding the top important variables for this data, the top 5 variables a
 
 If we look at the relative influence, the top variance in boosting are Kitchen_Qual, Overall_Cond and Fireplaces.
 
+## References
 
+1. Kuhn, M., 2020. [online] Cran.r-project.org. Available at: <https://cran.r-project.org/web/packages/AmesHousing/AmesHousing.pdf> [Accessed 23 February 2021].
+
+2. D'Souza, J., 2018. A Quick Guide to Boosting in ML. [online] Medium. Available at: <https://medium.com/greyatom/a-quick-guide-to-boosting-in-ml-acf7c1585cb5#:~:text=The%20term%20'Boosting'%20refers%20to,Source%3A%20Quantdare> [Accessed 23 February 2021].
+
+3. Sharon McNicholas. STATS 780/CSE 780: Lecture11 - Bagging, Random Forests, and Boosting [Accessed 21 February 2021].
+
+4. Singh, D., 2019. Finding Relationships in Data with R | Pluralsight. [online] Pluralsight.com. Available at: <https://www.pluralsight.com/guides/finding-relationships-data-with-r> [Accessed 23 February 2021].
+
+5. Rstudio-pubs-static.s3.amazonaws.com. 2019. Boston housing dataset regression. [online] Available at: <https://rstudio-pubs-static.s3.amazonaws.com/473175_cb370e7304b04383a9e7519c027de4ae.html> [Accessed 23 February 2021].
