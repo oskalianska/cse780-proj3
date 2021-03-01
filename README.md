@@ -1,6 +1,8 @@
+# Classification tree analysis
+
 1. [Description of data](#1-description-of-data)
 2. [Description of the problem](#2-description-of-the-problem)
-3. [Description of the techniques used](#3-description-of-the-techniques-used)
+3. [Description of the techniques](#3-description-of-the-techniques)
 4. [Descriptions of results](#4-descriptions-of-results)
 
 
